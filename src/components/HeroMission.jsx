@@ -1,6 +1,7 @@
 import "./HeroMission.css";
 import { motion } from "framer-motion";
 // import vgPayLogo from "../assets/image.png";
+import companyLogo from "../assets/company_logo.png";
 
 const floatingImage = {
   animate: {
@@ -47,10 +48,10 @@ const HeroMission = () => {
             animate="animate"
             initial={{ opacity: 1 }}
           >
-            {/* <img
-              src={vgPayLogo}
+            <img
+              src={companyLogo}
               alt="VishwaGuru Infotech Illustration"
-            /> */}
+            />
             <span className="image-glow" />
           </motion.div>
 

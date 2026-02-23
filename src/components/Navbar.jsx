@@ -94,7 +94,7 @@ const Navbar = () => {
 
                 <li>
                   <NavLink
-                    to="/devices/qr"
+                    to="/devices/xbox"
                     className={({ isActive }) =>
                       isActive ? "dropdown-link active" : "dropdown-link"
                     }
@@ -106,7 +106,7 @@ const Navbar = () => {
 
                 <li>
                   <NavLink
-                    to="/devices/pos"
+                    to="/devices/sboxpocket"
                     className={({ isActive }) =>
                       isActive ? "dropdown-link active" : "dropdown-link"
                     }
@@ -118,7 +118,7 @@ const Navbar = () => {
 
                 <li>
                   <NavLink
-                    to="/devices/printer"
+                    to="/devices/dbox"
                     className={({ isActive }) =>
                       isActive ? "dropdown-link active" : "dropdown-link"
                     }

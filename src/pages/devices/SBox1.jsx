@@ -138,7 +138,7 @@ const SBox1 = () => {
 
           <div className="usage-card">
 
-            <img src="https://images.unsplash.com/photo-1604719312566-8912e9c8a213" />
+             <img src="https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?auto=format&fit=crop&w=1000&q=80" />
 
             <div className="usage-content">
               <h4>Kirana Stores</h4>
@@ -177,8 +177,11 @@ const SBox1 = () => {
 
           <div className="usage-card">
 
-            <img src="https://images.unsplash.com/photo-1558981285-6f0c94958bb6" />
-
+          <img
+  src="https://images.unsplash.com/photo-1607860108855-64acf2078ed9?q=80&w=1200&auto=format&fit=crop"
+  alt="Petrol Pump POS"
+  className="petrol-img"
+/>
             <div className="usage-content">
               <h4>Petrol Pumps</h4>
               <p>Fast fuel payment confirmations</p>
@@ -190,7 +193,7 @@ const SBox1 = () => {
 
           <div className="usage-card">
 
-            <img src="https://images.unsplash.com/photo-1556742031-c6961e8560b0" />
+            <img src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?q=80&w=1200&auto=format&fit=crop" alt="Retail Counter"></img>
 
             <div className="usage-content">
               <h4>Retail Counters</h4>
@@ -484,7 +487,7 @@ const SBox1 = () => {
 
 
 {/* SECTION 4: FINAL CTA */}
-<section className="commerce-final-cta-root">
+{/* <section className="commerce-final-cta-root">
   <div className="commerce-final-cta-container">
     <h2>The Standard of <span>Audio Commerce</span></h2>
     <p className="commerce-final-cta-subtitle">Engineered for Scale. Designed for Trust.</p>
@@ -513,7 +516,7 @@ const SBox1 = () => {
       </div>
     </div>
   </div>
-</section>
+</section> */}
 
       {/* FOOTER */}
 

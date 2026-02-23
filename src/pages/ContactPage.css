@@ -18,6 +18,7 @@ body {
 .contact-container {
   width: 100%;
   min-height: 100vh;
+
   background: white;
   padding: 120px 20px 80px;
 }

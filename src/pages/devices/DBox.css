@@ -527,7 +527,7 @@ font-size:14px;
   font-size: 18px;
   opacity: 0.9;
   font-weight: 300;
-   color: white;
+  color: white;
 }
 
 /* The Grid System */
@@ -587,7 +587,7 @@ font-size:14px;
   max-width: 900px;
   margin: 0 auto;
   line-height: 1.6;
-   color: white;
+  color: white;
 }
 
 /* Tablet/Mobile logic to keep it looking clean */

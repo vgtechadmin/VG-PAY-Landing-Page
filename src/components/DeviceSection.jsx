@@ -23,21 +23,21 @@ const devices = [
     img: device1,
     desc: "Accept all major cards and UPI payments with a sleek, portable terminal.",
     tag: "Enterprise Grade",
-    path: "/devices/qr",
+    path: "/devices/xbox", // <-- corresponding route
   },
   {
     title: "S Box Pocket",
     img: device3,
     desc: "Premium acrylic standees and QR stickers for seamless counter payments.",
     tag: "Instant Setup",
-    path: "/devices/pos",
+    path: "/devices/sboxpocket", // <-- corresponding route
   },
   {
     title: "D Box 1",
     img: device4,
     desc: "Next-gen audio with dual speakers and ultra-long 7-day battery life.",
     tag: "Coming Soon",
-    path: "/devices/printer",
+    path: "/devices/dbox", // <-- corresponding route
   }
 ];
 

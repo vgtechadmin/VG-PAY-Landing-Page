@@ -43,7 +43,7 @@ const TrustedClients = () => {
           transition={{ duration: 0.6 }}
           style={{ textAlign: "center", marginBottom: "3rem" }}
         >
-          <h2 style={{ fontSize: "2rem", fontWeight: 800, color: "#0f172a" }}>
+          <h2 style={{  fontWeight: 800, color: "#0f172a" }}>
          Our <span style={{ color: "#1a8a5a" }}>Clients</span>
           </h2>
           <p style={{ color: "#475569", marginTop: "0.5rem" }}>
